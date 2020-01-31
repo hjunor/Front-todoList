@@ -20,7 +20,7 @@ async function handleSearch(to){
   const response = await api.get(`api/todos/?sort=-createdAt&description__regex=${to}`)
   
   console.log(response.data)
-handleAdd(to)
+handleAdd()
   console.log(todo)
 
 }
