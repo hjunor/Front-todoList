@@ -1,5 +1,5 @@
 ## Aplicação de todo list para organizações de tarrefas simples com Banco de dados local mongoDB.
-
+erros decorrente de atualização...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
