@@ -10,7 +10,7 @@ Front-end TodoList
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instação">Instalação</a>
+  <a href="#-instação">Instalação</a>
 </p>
 
 <br>
@@ -46,8 +46,8 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## Instalação
 
-###`yarn i` ou `npm i`
+`yarn i`  ou  `npm i`
 
-### `yarn start`
+Depois `yarn start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
